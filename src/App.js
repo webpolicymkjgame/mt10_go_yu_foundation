@@ -22,8 +22,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Go Yu Foundation" className="logo-img" />
-                <span className="studio-name">Go Yu Foundation</span>
+                <img src={logoImg} alt="Solvertech Africa Studio" className="logo-img" />
+                <span className="studio-name">Solvertech Africa Studio</span>
               </div>
             </div>
 
@@ -55,8 +55,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Welcome to Go Yu Foundation</h2>
-            <p className="about-text">Go Yu Foundation is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Go Yu Foundation – from casual games and productivity tools to educational and lifestyle applications.
+            <h2 className="highlight-title">Welcome to Solvertech Africa Studio</h2>
+            <p className="about-text">Solvertech Africa Studio is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Solvertech Africa Studio – from casual games and productivity tools to educational and lifestyle applications.
             </p>
           </div>
           <div className="about-img-container">
@@ -118,7 +118,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Go Yu Foundation. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Solvertech Africa Studio. All rights reserved.</p>
           </div>
         </footer>
       </div>
